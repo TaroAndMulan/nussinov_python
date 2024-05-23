@@ -1,7 +1,7 @@
-python nussinov.py [sequence]
+# Nussinov algorithm in python
 
-example :
+## command
+> python nussiov.py [RNA sequence]
 
+## example usage
 python nussinov.py GGGAAAUCC
-> .(((..)))
-
